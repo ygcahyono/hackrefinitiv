@@ -1,0 +1,187 @@
+No,Keywords,Resource
+1,Climate Change,GPT 4.0
+2,Greenhouse Gas Emissions,GPT 4.0
+3,Carbon Footprint,GPT 4.0
+4,Renewable Energy,GPT 4.0
+5,Sustainable Resources,GPT 4.0
+6,Biodiversity,GPT 4.0
+7,Deforestation,GPT 4.0
+8,Pollution,GPT 4.0
+9,Waste Management,GPT 4.0
+10,Water Conservation,GPT 4.0
+11,Energy Efficiency,GPT 4.0
+12,Environmental Impact Assessment,GPT 4.0
+13,Human Rights,GPT 4.0
+14,Employee Engagement,GPT 4.0
+15,Diversity and Inclusion,GPT 4.0
+16,Gender Equality,GPT 4.0
+17,Living Wage,GPT 4.0
+18,Fair Trade,GPT 4.0
+19,Health and Safety,GPT 4.0
+20,Community Engagement,GPT 4.0
+21,Labor Standards,GPT 4.0
+22,Supply Chain Management,GPT 4.0
+23,Data Protection and Privacy,GPT 4.0
+24,Consumer Protection,GPT 4.0
+25,Board Diversity,GPT 4.0
+26,Executive Compensation,GPT 4.0
+27,Business Ethics,GPT 4.0
+28,Corruption and Bribery,GPT 4.0
+29,Shareholder Rights,GPT 4.0
+30,Conflict of Interest,GPT 4.0
+31,Corporate Transparency,GPT 4.0
+32,Regulatory Compliance,GPT 4.0
+33,Risk Management,GPT 4.0
+34,Active ownership,Internet Source
+35,adverse impacts,Internet Source
+36,"Article 6, 8 & 9 funds",Internet Source
+37,Best in class,Internet Source
+38,Biodiversity,Internet Source
+39,Carbon capture and storage (CCS),Internet Source
+40,Carbon footprint,Internet Source
+41,Carbon intensity,Internet Source
+42,Carbon neutral,Internet Source
+43,Carbon offsetting,Internet Source
+44,Carbon pricing,Internet Source
+45,Carbon removal,Internet Source
+46,Circular economy,Internet Source
+47,Clean tech,Internet Source
+48,Climate change,Internet Source
+49,Climate Engagement Escalation Programme,Internet Source
+50,Climate transition,Internet Source
+51,Community investment,Internet Source
+52,Controversies,Internet Source
+53,CO2e,Internet Source
+54,COP26,Internet Source
+55,Corporate governance,Internet Source
+56,Corporate good governance process,Internet Source
+57,Decent work,Internet Source
+58,Derivative look-through,Internet Source
+59,Divestment,Internet Source
+60,Emissions trading scheme (ETS),Internet Source
+61,Engagement,Internet Source
+62,Escalation,Internet Source
+63,ESG,Internet Source
+64,Ethical investments,Internet Source
+65,Fossil free,Internet Source
+66,Global Warming Potential,Internet Source
+67,Green bonds,Internet Source
+68,Green finance,Internet Source
+69,Greenhouse gases (GHG),Internet Source
+70,Greenwashing,Internet Source
+71,Human rights,Internet Source
+72,Human rights due diligence,Internet Source
+73,Impact investing,Internet Source
+74,Integration philosophy,Internet Source
+75,Intergovernmental Panel on Climate Change (IPCC),Internet Source
+76,International Platform for Climate Finance (IPCF),Internet Source
+77,Just transition,Internet Source
+78,Living wage,Internet Source
+79,Macro stewardship,Internet Source
+80,Micro stewardship,Internet Source
+81,Natural capital,Internet Source
+82,Net Zero Asset Owner Alliance,Internet Source
+83,Net Zero Asset Managers Initiative,Internet Source
+84,Net Zero target,Internet Source
+85,Norms-based exclusions,Internet Source
+86,Negative emissions technologies,Internet Source
+87,Paris Agreement,Internet Source
+88,Science-Based Targets Initiative (SBTi),Internet Source
+89,"Scope 1, 2 and 3 emissions",Internet Source
+90,Screening,Internet Source
+91,Social bonds,Internet Source
+92,Social infrastructure,Internet Source
+93,Social taxonomy,Internet Source
+94,Sovereign ESG Assessment (inc. good governance),Internet Source
+95,Stewardship,Internet Source
+96,Stranded assets,Internet Source
+97,Sustainability,Internet Source
+98,Sustainability bonds,Internet Source
+99,Sustainable Development Goals (SDGs),Internet Source
+100,Sustainable Finance Disclosure Regulation (SFDR),Internet Source
+101,Sustainable Taxonomy,Internet Source
+102,Tar sands,Internet Source
+103,TCFD,Internet Source
+104,Thermal coal,Internet Source
+105,Unconventional fossil fuels,Internet Source
+106,UN Global Compact (UNGC),Internet Source
+107,UN Guiding Principles on Business and Human Rights (UNGP),Internet Source
+108,anti-competitive,ESG Refinitiv Documentation
+109,anti-trust,ESG Refinitiv Documentation
+110,monopoly,ESG Refinitiv Documentation
+111,price-fixing,ESG Refinitiv Documentation
+112,kickbacks,ESG Refinitiv Documentation
+113,bribery,ESG Refinitiv Documentation
+114,corruption,ESG Refinitiv Documentation
+115,political contributions,ESG Refinitiv Documentation
+116,business ethics,ESG Refinitiv Documentation
+117,patents,ESG Refinitiv Documentation
+118,infringements,ESG Refinitiv Documentation
+119,intellectual property,ESG Refinitiv Documentation
+120,critical,ESG Refinitiv Documentation
+121,undemocratic,ESG Refinitiv Documentation
+122,respect,ESG Refinitiv Documentation
+123,fundamental human rights,ESG Refinitiv Documentation
+124,accidents,ESG Refinitiv Documentation
+125,harming,ESG Refinitiv Documentation
+126,health,ESG Refinitiv Documentation
+127,safety,ESG Refinitiv Documentation
+128,tax fraud,ESG Refinitiv Documentation
+129,parallel imports,ESG Refinitiv Documentation
+130,money laundering,ESG Refinitiv Documentation
+131,child labour,ESG Refinitiv Documentation
+132,human rights,ESG Refinitiv Documentation
+133,board compensation,ESG Refinitiv Documentation
+134,high executive,ESG Refinitiv Documentation
+135,board compensation,ESG Refinitiv Documentation
+136,consumer complaints,ESG Refinitiv Documentation
+137,complaints,ESG Refinitiv Documentation
+138,dissatisfaction,ESG Refinitiv Documentation
+139,product,ESG Refinitiv Documentation
+140,services,ESG Refinitiv Documentation
+141,health,ESG Refinitiv Documentation
+142,safety,ESG Refinitiv Documentation
+143,customer,ESG Refinitiv Documentation
+144,employee,ESG Refinitiv Documentation
+145,privacy,ESG Refinitiv Documentation
+146,integrity,ESG Refinitiv Documentation
+147,product access,ESG Refinitiv Documentation
+148,over-marketing,ESG Refinitiv Documentation
+149,marketing,ESG Refinitiv Documentation
+150,unhealthy,ESG Refinitiv Documentation
+151,food,ESG Refinitiv Documentation
+152,vulnerable,ESG Refinitiv Documentation
+153,R&D,ESG Refinitiv Documentation
+154,responsible,ESG Refinitiv Documentation
+155,operations,ESG Refinitiv Documentation
+156,natural resources,ESG Refinitiv Documentation
+157,local communities,ESG Refinitiv Documentation
+158,aggressive,ESG Refinitiv Documentation
+159,non-transparent,ESG Refinitiv Documentation
+160,accounting issues,ESG Refinitiv Documentation
+161,accounting,ESG Refinitiv Documentation
+162,issues,ESG Refinitiv Documentation
+163,insider dealings,ESG Refinitiv Documentation
+164,insider,ESG Refinitiv Documentation
+165,insider trading,ESG Refinitiv Documentation
+166,share price manipulations,ESG Refinitiv Documentation
+167,manipulations,ESG Refinitiv Documentation
+168,manipulation,ESG Refinitiv Documentation
+169,infringements,ESG Refinitiv Documentation
+170,workforce diversity,ESG Refinitiv Documentation
+171,diversity,ESG Refinitiv Documentation
+172,workforce,ESG Refinitiv Documentation
+173,wages,ESG Refinitiv Documentation
+174,promotion,ESG Refinitiv Documentation
+175,discrimination,ESG Refinitiv Documentation
+176,harassment,ESG Refinitiv Documentation
+177,safety,ESG Refinitiv Documentation
+178,health,ESG Refinitiv Documentation
+179,wage disputes,ESG Refinitiv Documentation
+180,wage,ESG Refinitiv Documentation
+181,salary,ESG Refinitiv Documentation
+182,strike,ESG Refinitiv Documentation
+183,lost working days,ESG Refinitiv Documentation
+184,working,ESG Refinitiv Documentation
+185,industrial,ESG Refinitiv Documentation
+186,dispute,ESG Refinitiv Documentation
