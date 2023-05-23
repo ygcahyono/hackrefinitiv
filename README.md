@@ -3,7 +3,9 @@
 The aim of the [Hackathon](https://developers.refinitiv.com/en/use-cases-catalog/uni-hackathon) is to aid students to apply their academic knowledge within both a commercial and technically secure environment, enabling students to put themselves in the shoes of the professional working in financial and commercial fields.
 
 - [X] News Headline Data (Last 15 Months)
-- [X] Decide the companies or industries (100+ companies better)
+- [X] Decide the companies or industries (Decision: Footsie FTSE100)
+- [X] Pull out ESG Controversy Data for Footsie 2022 - 2023
+- [X] Pull out News Headline Data for Footsie 2022 - 2023
 - [ ] Pull out ESG Controversy Data for every company from 2021 - 2023
 - [ ] Pull out News Headline Data for every company from 2021 - 2023
 - [ ] Enhance the ESG News Filter
@@ -12,6 +14,10 @@ The aim of the [Hackathon](https://developers.refinitiv.com/en/use-cases-catalog
 
 ---
 # **How To**
+
+## **List of Footsie**
+
+FTSE100 listed companies [link](https://www.londonstockexchange.com/indices/ftse-100/constituents/table?page=5)
 
 ## **Collect Headline Data from Refinitiv EIKON.**
 
@@ -39,6 +45,6 @@ boolean. If this parameter is set to True, the json request and response are pri
 
 To construct well writen query for the news headline we can head up to **news monitor** write your criteria on the search bar, copy and paste the result to your jupyter notebook.
 
+---
 
-
-Team member: Radhea, Maia, Yogi
+**Team member**: Radhea, Maia, Yogi
