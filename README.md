@@ -8,6 +8,6 @@ The aim of the [Hackathon](https://developers.refinitiv.com/en/use-cases-catalog
 - [ ] Pull out News Headline Data for every company from 2021 - 2023
 - [ ] Enhance the ESG News Filter
 - [ ] Fin-BERT fine-tune model with current ESG News
-- [ ] Ensemble Model on top of Fin-BERT to classify the actual ordinal label (A,B,C, etc.)
+- [ ] Ensemble Model or Severity Rate (Simple Math) on top of Fin-BERT to classify the actual ordinal label (A,B,C, etc.)
 
 Team member: Radhea, Maia, Yogi
