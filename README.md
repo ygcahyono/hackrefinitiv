@@ -3,14 +3,12 @@
 The aim of the [Hackathon](https://developers.refinitiv.com/en/use-cases-catalog/uni-hackathon) is to aid students to apply their academic knowledge within both a commercial and technically secure environment, enabling students to put themselves in the shoes of the professional working in financial and commercial fields.
 
 - [X] News Headline Data (Last 15 Months)
-- [X] Decide the companies or industries (Decision: Footsie FTSE100)
-- [X] Pull out ESG Controversy Data for Footsie 2022 - 2023
-- [X] Pull out News Headline Data for Footsie 2022 - 2023
-- [ ] Pull out ESG Controversy Data for every company from 2021 - 2023
-- [ ] Pull out News Headline Data for every company from 2021 - 2023
-- [ ] Enhance the ESG News Filter
-- [ ] Fin-BERT fine-tune model with current ESG News
-- [ ] Ensemble Model or Severity Rate (Simple Math) on top of Fin-BERT to classify the actual ordinal label (A,B,C, etc.)
+- [X] Decide the companies or industries (FTSE100, Fortune100, DAX40)
+- [X] Pull out ESG Controversy Data 2022 - 2023
+- [X] Pull out News Headline Data 2022 - 2023
+- [X] Enhance the ESG News Filter (Gaussian vs Exact Glossaries)
+- [X] Fin-BERT vector representations for News.
+- [X] Ensemble Model or Severity Rate (Simple Math) on top of Fin-BERT to perform regression
 
 ---
 # **How To**
